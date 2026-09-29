@@ -14,5 +14,9 @@
   },
   "scripts": {
     "test": "node specs/*.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cacheflow/atl-transit-cobblinc"
   }
 }
